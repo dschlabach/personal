@@ -55,12 +55,12 @@ function Navbar() {
         <Link className="mx-4 hover:text-blue-300" to="/about">
           About
         </Link>
-        <Link className="mx-4 hover:text-blue-300" to="/articles">
+        {/* <Link className="mx-4 hover:text-blue-300" to="/articles">
           Articles
         </Link>
         <Link className="mx-4 hover:text-blue-300" to="/bookshelf">
           Bookshelf
-        </Link>
+        </Link> */}
         <a
           className="mx-4 hover:text-blue-300"
           href="https://twitter.com/dmschlabach"
@@ -106,7 +106,7 @@ function Navbar() {
                       <Link className="mx-4 hover:text-blue-300" to="/about">
                         About
                       </Link>
-                      <Link className="mx-4 hover:text-blue-300" to="/articles">
+                      {/* <Link className="mx-4 hover:text-blue-300" to="/articles">
                         Articles
                       </Link>
                       <Link
@@ -114,7 +114,7 @@ function Navbar() {
                         to="/bookshelf"
                       >
                         Bookshelf
-                      </Link>
+                      </Link> */}
                       <a
                         className="mx-4 hover:text-blue-300"
                         href="https://twitter.com/dmschlabach"
