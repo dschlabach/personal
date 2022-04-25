@@ -11,6 +11,8 @@ export default function Home() {
             <a
               className="text-blue-300 hover:text-slate-100"
               href="https://llama.xyz"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Llama
             </a>
@@ -21,6 +23,8 @@ export default function Home() {
             <a
               className="text-blue-300 hover:text-slate-100"
               href="https://eyesoftheworld.substack.com"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Eyes of the World
             </a>
@@ -32,6 +36,8 @@ export default function Home() {
             <a
               className="text-blue-300 hover:text-slate-100"
               href="https://mirror.xyz/schlabach.eth/EBBswvawc3Jiuu5PVKWbbHVLFHyba3XYtYXRLhZoT_4"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               Why I’m Leaving Harvard Business School to Join a Crypto Startup
             </a>
@@ -77,6 +83,8 @@ export default function Home() {
               <a
                 className="font-semibold text-blue-300 hover:text-slate-100"
                 href="https://readbroca.com"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Broca
               </a>
@@ -87,6 +95,8 @@ export default function Home() {
               <a
                 className="font-semibold text-blue-300 hover:text-slate-100"
                 href="https://readalong.io"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 ReadAlong
               </a>
@@ -96,6 +106,8 @@ export default function Home() {
               <a
                 className="font-semibold text-blue-300 hover:text-slate-100"
                 href="https://filtrd.co"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Filtrd
               </a>
@@ -105,6 +117,8 @@ export default function Home() {
               <a
                 className="font-semibold text-blue-300 hover:text-slate-100"
                 href="https://twitter.com/jeopardytweeter"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Jeopardy Tweeter
               </a>
