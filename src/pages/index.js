@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import Layout from "../components/layout";
 
 export default function Home() {
@@ -103,14 +104,12 @@ export default function Home() {
               : A website I built to read dual-language stories.
             </li>
             <li className="my-3">
-              <a
+              <Link
                 className="font-semibold text-blue-300 hover:text-slate-100"
-                href="https://filtrd.co"
-                target="_blank"
-                rel="noopener noreferrer"
+                to="/filtrd"
               >
                 Filtrd
-              </a>
+              </Link>
               : A full-stack application I built while teaching myself to code.
             </li>
             <li className="my-3">
